@@ -1,0 +1,174 @@
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.navbar-list {
+    display: flex;
+    gap: 42px;
+}
+
+.navbar-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 14px;
+    color: #1C1C1C;
+}
+
+.registration {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.search{
+    border-radius: 50px;
+}
+
+.main {
+    background-color: #F3F7F4;
+}
+
+.schedule {
+    border-radius: 50px;
+}
+
+.left {
+    margin-top: 300px;
+}
+
+.woman {
+    margin-top: 200px;
+}
+
+.div2{
+    display: flex;
+    gap: 350px;
+}
+
+.customers-list  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    gap: 150px;
+}
+
+.customers-item {
+    margin-top: 180px;
+}
+
+.div3{
+    display: flex;
+    gap: 400px;
+}
+
+.automation {
+    background-color: #F3F7F4;
+}
+
+.right1 {
+    margin-top: 50px;
+}
+
+.our-results {
+    margin-top: 200px;
+}
+
+.more-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.more-item {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.more-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.more-info {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.customers2 {
+    margin-top: 80px;
+    display: flex;
+    gap: 370px;
+    margin-top: 10px;
+}
+
+.schedule2 {
+    border-radius: 50px;
+}
+
+.main-footer {
+    background-color: #101C21;
+}
+
+footer {
+  background-color: #eef1f2;
+  padding: 50px 0;
+}
+
+footer h2 {
+  margin-bottom: 10px;
+}
+
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: #818181;
+  margin-top: 10px;
+}
+
+.form {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+
+.name-input {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #1C1C1C;
+    padding: 12px 20px;
+    text-transform: capitalize;
+    background: #fff;
+    border: 1px solid #1C1C1C;
+    border-radius: 6px;
+}
